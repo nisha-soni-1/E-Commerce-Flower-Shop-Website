@@ -1,22 +1,19 @@
-E-Commerce Flower Shop Website
+E-Commerce Flower Shop Website 🌸
+This is a responsive and modern flower shop website built using pure HTML and CSS.
+It features a clean design, elegant layout, and smooth user experience — perfect for showcasing floral products beautifully on all devices.
 
-A responsive flower shop website built using pure HTML and CSS.
-It features a clean design, modern layout, and smooth user experience — perfect for showcasing floral products beautifully on all devices.
 
-Features
+Overview:
+The website is designed to provide a pleasant shopping experience with sections like Home, Product Gallery, About, and Contact.
+Every section is crafted carefully with clean code, CSS Flexbox, and Grid, ensuring a visually appealing and mobile-friendly design.
 
-100% Responsive Design (works on mobile, tablet, and desktop)
 
-Product Gallery with elegant hover effects
-
-Beautiful Hero Section and smooth layout
-
-About & Contact Sections for complete shop info
-
-Built using only HTML5 + CSS3 (Flexbox & Grid)
-
-💻 Technologies Used
-
-HTML5
-
-CSS3
+Key Features:
+Fully responsive layout that adapts to all screen sizes
+Product gallery with stylish hover effects
+Simple and elegant hero, about, and contact sections
+Lightweight and fast — made only with HTML5 & CSS3
+Clean, minimal, and professional user interface
+Technologies Used:
+HTML5 (for structure)
+CSS3 (for styling and responsiveness using Flexbox & Grid)

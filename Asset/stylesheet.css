@@ -14,8 +14,7 @@
   transition: 0.2s linear;
 }
 
-html {
-  font-size: 55%;       
+html {  
   scroll-behavior: smooth;
   scroll-padding-top: 6rem;
   overflow-x: hidden;
@@ -509,7 +508,7 @@ header .fa-bars {
 
 .footer .box-container {
   display: flex;
-  flex-wrap: nowrap; /* keeps all boxes in one line */
+  flex-wrap: wrap; 
   justify-content: space-between;
   align-items: flex-start;
   gap: 2rem;
@@ -560,9 +559,6 @@ header .fa-bars {
 /* media queries */
 
 @media (max-width: 991px) {
-  html {
-    font-size: 55%;
-  }
 
   header {
     padding: 2rem;
@@ -645,11 +641,6 @@ header .fa-bars {
     padding: 2rem 5%;
   }
 
-  @media (max-width: 450px) {
-    html {
-      font-size: 50%;
-    }
-  }
 
   .heading {
     font-size: 3rem;
